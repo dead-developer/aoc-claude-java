@@ -4,4 +4,3 @@ Testing AI for Advent of code. These solutions are written by Claude in Java. I'
 
 ## Day 1
 Claude solved technically in 1 prompt for each phase. Few extra prompts were needed to get the solution in this format.
-[README.md](README.md)

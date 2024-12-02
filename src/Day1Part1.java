@@ -44,7 +44,7 @@ public class Day1Part1 {
                 }
             }
         } catch (IOException e) {
-            System.err.println("Error reading " + filename + ": " + e.getMessage());
+            System.err.println("Error reading file");
             System.exit(1);
         }
     }
